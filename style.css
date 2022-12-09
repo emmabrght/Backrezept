@@ -18,17 +18,13 @@
 }
 
 .footer{
-margin-top: 150px;
-width: 100%;
-padding: 100px 15%;
-background: #faeded;
-display: flex;
-text-align: center;
+    margin-top: 150px;
+    width: 100%;
+    padding: 100px 15%;
+    background: #faeded;
+    display: flex;
+    text-align: center;
 }
-.col-2{
-    flex-grow: 2;
-}
-
 .logo, .b{
     display: block;
   margin-left: auto;
@@ -56,4 +52,5 @@ text-align: center;
 
 .recipe{
    margin-left: 130px;
+   margin-right: 130px;
 }
