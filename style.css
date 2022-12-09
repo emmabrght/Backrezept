@@ -11,24 +11,28 @@
     padding: 0 8%;
     background-color: #faeded;
 }
-
-.body{
+.ingredients{
     width: 100%;
     padding: 0 8%;
 }
 
 .footer{
-    margin-top: 150px;
+    margin-top: 100px;
     width: 100%;
     padding: 100px 15%;
     background: #faeded;
     display: flex;
     text-align: center;
 }
-.logo, .b{
+
+.logo, .img-rounded{
     display: block;
   margin-left: auto;
   margin-right: auto;
+}
+.line{
+    width: 50px;
+    height: 50px;
 }
 
 .links{
@@ -47,7 +51,6 @@
     text-decoration: none;
     color: black;
     padding: 5px 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .recipe{
